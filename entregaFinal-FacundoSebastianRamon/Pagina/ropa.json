@@ -1,0 +1,66 @@
+[
+    {
+      "marca": "Tommy Hilfiger",
+      "modelo": "Campera",
+      "calidad": 4,
+      "precio": 25000,
+      "imagen": "./img/campera.jpg"
+    },
+    {
+      "marca": "Tommy Hilfiger",
+      "modelo": "Campera",
+      "calidad": 3,
+      "precio": 17000,
+      "imagen": "./img/campera.jpg"
+    },
+    {
+      "marca": "Tommy Hilfiger",
+      "modelo": "Campera",
+      "calidad": 5,
+      "precio": 35000,
+      "imagen": "./img/campera.jpg"
+    },
+    {
+      "marca": "Tommy Hilfiger",
+      "modelo": "Remera",
+      "calidad": 2,
+      "precio": 11000,
+      "imagen": "./img/remera.jpg"
+    },
+    {
+      "marca": "Tommy Hilfiger",
+      "modelo": "Remera",
+      "calidad": 5,
+      "precio": 18000,
+      "imagen": "./img/remera.jpg"
+    },
+    {
+      "marca": "Tommy Hilfiger",
+      "modelo": "Remera",
+      "calidad": 2,
+      "precio": 10000,
+      "imagen": "./img/remera.jpg"
+    },
+    {
+      "marca": "Tommy Hilfiger",
+      "modelo": "Bermuda",
+      "calidad": 1,
+      "precio": 5000,
+      "imagen": "./img/bermuda.jpg"
+    },
+    {
+      "marca": "Tommy Hilfiger",
+      "modelo": "Bermuda",
+      "calidad": 5,
+      "precio": 11000,
+      "imagen": "./img/bermuda.jpg"
+    },
+    {
+      "marca": "Tommy Hilfiger",
+      "modelo": "Bermuda",
+      "calidad": 4,
+      "precio": 10000,
+      "imagen": "./img/bermuda.jpg"
+    }
+  ]
+  
